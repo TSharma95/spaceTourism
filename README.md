@@ -1,6 +1,8 @@
-# Space tourism website - Frontend Mentor
+# Space tourism website - Frontend Mentor(reference)
 
-This is a solution to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3).
+### Links
+
+- Live Site URL: https://tsharma95.github.io/spaceTourism/
 
 ## Table of contents
 
@@ -12,7 +14,6 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 
 ## Overview
 
@@ -31,11 +32,6 @@ Users should be able to:
 ### Screenshot
 
 ![Space tourism website](./img/screenshot.webp)
-
-### Links
-
-- Solution URL: [github](https://github.com/denielden/grid-vanilla-js-space-tourism)
-- Live Site URL: [live site](https://denielden.github.io/grid-vanilla-js-space-tourism)
 
 ## My process
 
@@ -57,11 +53,6 @@ I was also able to learn more about `aria-attribute` and how to create a floatin
 ### Useful resources
 
 - [Scrimba Course](https://scrimba.com/learn/spacetravel)
-
-## Author
-
-- Reference
-- Frontend Mentor - [@denielden](https://www.frontendmentor.io/profile/denielden)
   
 
 ## **Have fun building!** 🚀
